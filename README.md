@@ -6,3 +6,4 @@
 - env file
 - requirements file
 - add OPENAI 
+- create python file - home.py 
